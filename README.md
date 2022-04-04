@@ -3,7 +3,7 @@
 </div>
 <div id="badges" align="center">
 <a href="https://linktr.ee/ChiaraMancarella">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.kindpng.com%2Fimgv%2FTRTJhim_linktree-logo-png-transparent-png%2F&psig=AOvVaw1ERHOM5k8rVuQzm8T0sXvI&ust=1649151144969000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCOCw4PeL-vYCFQAAAAAdAAAAABAP" alt="Linktree"/>
+  <img src=""alt="Linktree"/>
  </a>
 </div>
 <h1 align="center">
