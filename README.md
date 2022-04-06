@@ -15,8 +15,6 @@
 
 - :seedling: Currently learning <b>Data Analysis</b>.
 
-- :mailbox:How to reach me: (https://www.linkedin.com/in/chiara-mancarella-082048207/)
-
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
