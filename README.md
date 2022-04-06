@@ -3,7 +3,7 @@
 </div>
 <div id="badges" align="center">
 <a href="https://linktr.ee/ChiaraMancarella">
-  <img src=""alt="Linktree"/>
+  Linktree
  </a>
 </div>
 <h1 align="center">
