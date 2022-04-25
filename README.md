@@ -41,3 +41,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg"  title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
 </div>
 
+### Stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chiara2804)](https://github.com/anuraghazra/github-readme-stats)     
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Chiara2804&show_icons=true)  
