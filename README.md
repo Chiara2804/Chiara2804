@@ -1,11 +1,9 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="250"/>
+  <a href="https://linktr.ee/ChiaraMancarella">
+    <img src="github.header-image.png" width="250"/>
+  </a>
 </div>
-<div id="badges" align="center">
-<a href="https://linktr.ee/ChiaraMancarella">
-  Linktree
- </a>
-</div>
+
 <h1 align="center">
  Welcome
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
