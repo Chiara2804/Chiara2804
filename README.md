@@ -4,11 +4,6 @@
   </a>
 </div>
 
-<h1 align="center">
- Welcome
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
-
 ### :woman_technologist: About Me <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">:
 
 - :seedling: Currently learning <b>Data Analysis</b>.
