@@ -6,7 +6,7 @@
 
 ### :woman_technologist: About Me <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">:
 
-- :seedling: Currently learning <b>Data Analysis</b>.
+- :seedling: Currently learning <b>Data Analysis</b> and <b>Machine Learning</b>.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LINKEDIN-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/chiara-mancarella-082048207/)
 
