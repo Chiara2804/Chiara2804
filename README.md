@@ -42,7 +42,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg"  title="RaspberryPi" alt="RaspberryPi" width="40" height="40"/>&nbsp;
 </div>
 
-### <img src="https://media.giphy.com/media/E7cElIn0u8EryF4i1u/giphy.gif" width=50> I am...
+### I am...
 
 ```text
 🌞 Morning_Person      ████████████████████░░░░░   80% 
