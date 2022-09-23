@@ -10,6 +10,12 @@
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LINKEDIN-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/chiara-mancarella-082048207/)
 
+### I am...
+
+```text
+🌞 Morning_Person      ████████████████████░░░░░   80% 
+🌙 Nigh_Person         █████░░░░░░░░░░░░░░░░░░░░   20%
+```
 
 ---
 
@@ -41,13 +47,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg"  title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg"  title="RaspberryPi" alt="RaspberryPi" width="40" height="40"/>&nbsp;
 </div>
-
-### I am...
-
-```text
-🌞 Morning_Person      ████████████████████░░░░░   80% 
-🌙 Nigh_Person         █████░░░░░░░░░░░░░░░░░░░░   20%
-```
 
 <p align=center >
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chiara2804" /> 
