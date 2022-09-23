@@ -6,15 +6,13 @@
 
 ### :woman_technologist: About Me <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">:
 
-- :seedling: Currently learning <b>Machine Learning</b>.
-
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LINKEDIN-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/chiara-mancarella-082048207/)
+- :mailbox:How to reach me: 
 
 ### I am...
 
 ```text
 🌞 Morning_Person      ████████████████████░░░░░   80% 
-🌙 Nigh_Person         █████░░░░░░░░░░░░░░░░░░░░   20%
+🌙 Nigth_Person         █████░░░░░░░░░░░░░░░░░░░░   20%
 ```
 
 ---
