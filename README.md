@@ -49,11 +49,11 @@
 </div>
 
 <p align=center >
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Chiara2804" /> 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Chiara2804&theme=vision-friendly-dark" /> 
 </p>
 <p align=center >
-<img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs?username=Chiara2804&show_icons=true&locale=en&layout=compact" alt="Chiara2804" /></p>
+<img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs?username=Chiara2804&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="Chiara2804" /></p>
 <br/>
 <p align=center >
-&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Chiara2804&show_icons=true&locale=en" alt="Chiara2804" />
+&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Chiara2804&show_icons=true&locale=en&theme=vision-friendly-dark" alt="Chiara2804" />
 </p>
