@@ -11,7 +11,10 @@
 🌙 Nigth_Person         █████░░░░░░░░░░░░░░░░░░░░   20%
 ```
 <div>
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> &nbsp;
+  <a href="https://www.linkedin.com/in/chiara-mancarella-082048207/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> &nbsp;
+  </a>
+  
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/> &nbsp;
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> &nbsp;
   <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>&nbsp;
