@@ -7,6 +7,7 @@
 ### :woman_technologist: About Me <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">:
 
 - :mailbox:How to reach me: 
+<a href="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 
 ### I am...
 
