@@ -28,7 +28,7 @@
   </a>
 </div>
 
----
+
 
 ## :hammer_and_wrench: Languages and Tools :
 <div>
@@ -51,7 +51,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg"  title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
 </div>
 
----
+
 ## 💻 OS
 <div>
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
@@ -59,7 +59,7 @@
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
 </div>
 
----
+
 ## 📈 Stats:
 <p align=center >
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chiara2804&theme=vision-friendly-dark" /> 
