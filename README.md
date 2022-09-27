@@ -30,7 +30,7 @@
 <br><br>
 
 
-## :hammer_and_wrench: Languages and Tools :
+## :hammer_and_wrench: Languages and Tools
 <div>
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg"  title="C" alt="C" width="40" height="40"/>&nbsp;
@@ -61,7 +61,7 @@
 </div>
 <br>
 
-## 📈 Stats:
+## 📈 Stats
 <p align=center >
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chiara2804&theme=vision-friendly-dark" /> 
 </p>
