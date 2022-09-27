@@ -27,7 +27,7 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp; 
   </a>
 </div>
-
+<br><br>
 
 
 ## :hammer_and_wrench: Languages and Tools :
@@ -50,6 +50,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/tensorflow/tensorflow-original.svg" title="Tensorflow" alt="Tensorflow" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg"  title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
 </div>
+<br>
 
 
 ## 💻 OS
@@ -58,7 +59,7 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
 </div>
-
+<br>
 
 ## 📈 Stats:
 <p align=center >
