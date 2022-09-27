@@ -41,6 +41,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg"  title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
 </div>
 
+<br><br>
 <p align=center >
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chiara2804&theme=vision-friendly-dark" /> 
 </p>
