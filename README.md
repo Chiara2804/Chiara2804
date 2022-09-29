@@ -75,7 +75,7 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chiara2804&theme=vision-friendly-dark" /> 
 </p>
 <p align=center >
-<img align="center"  src="https://github-readme-stats.vercel.app/api/wakatime?username=Chiara2804&hide_border=true&theme=vision-friendly-dark&layout=compact&langs_count=14&hide_title=true&card_width=300px" alt="Chiara2804" /></p>
+<img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chiara2804&theme=blue-green" alt="Chiara2804" /></p>
 <br/>
 <p align=center >
 &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Chiara2804&show_icons=true&locale=en&theme=vision-friendly-dark" alt="Chiara2804" />
