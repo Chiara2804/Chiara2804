@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <a href="https://linktr.ee/ChiaraMancarella">
-    <img src="github-header-image.png" width="100%"/>
+    <img src="github-header-image.png" width="auto"/>
   </a>
 </div>
 
