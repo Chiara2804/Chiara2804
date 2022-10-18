@@ -28,9 +28,6 @@
   </a>
 </div>
 <br><br>
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=Chiara2804&label=Profile%20Views&color=1&icon=0&pretty=true" />
-</a>
 
 
 ## :hammer_and_wrench: Languages and Tools
