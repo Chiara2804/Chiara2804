@@ -5,7 +5,6 @@
 </div>
 
 ### I am...
-![](https://komarev.com/ghpvc/?username=Chiara2804&color=dc143c)
 
 ```text
 🌞 Morning_Person      ████████████████████░░░░░   80% 
