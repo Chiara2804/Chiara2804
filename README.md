@@ -20,9 +20,7 @@
   <a href="https://www.instagram.com/chiara.mancarella_/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> &nbsp;
   </a>  
-  <a href="https://www.tiktok.com/@devchiara">
-    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>&nbsp;
-  </a> 
+ 
   <a href="mailto:chiara.mancarella2804@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp; 
   </a>
