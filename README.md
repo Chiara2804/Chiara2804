@@ -10,7 +10,7 @@
 🌞 Morning_Person      ████████████████████░░░░░   80% 
 🌙 Night_Person         █████░░░░░░░░░░░░░░░░░░░░   20%
 ```
-<div style="width: 500, text-align: center">
+
   <a href="https://www.linkedin.com/in/chiara-mancarella-082048207/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> &nbsp;
   </a>
@@ -24,7 +24,7 @@
   <a href="mailto:chiara.mancarella2804@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> &nbsp;
   </a>
-</div>
+
 <br><br>
 
 
