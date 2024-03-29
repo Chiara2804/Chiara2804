@@ -56,7 +56,7 @@
 <br>
 
 
-## 💻 OS
+# 💻 OS
 <div>
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
@@ -64,7 +64,7 @@
 </div>
 <br>
 
-## 🤖 Prototyping Platforms
+# 🤖 Prototyping Platforms
 <div>
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/>
   <img src="https://img.shields.io/badge/adafruit-000000?style=for-the-badge&logo=adafruit&logoColor=white"/>
@@ -72,7 +72,7 @@
 </div>
 <br>
 
-## 📈 Stats
+# 📈 Stats
 <p align=center >
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chiara2804&theme=vision-friendly-dark" /> 
 </p>
