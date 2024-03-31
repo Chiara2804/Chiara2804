@@ -28,7 +28,7 @@
 <br><br>
 
 
-# <img src="https://camo.githubusercontent.com/94b33bd991f6c3135af747bdf27361be43e797c0fce678b62ed5aef57e9d8bd7/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966" width="40" height="40"/> Languages and Tools
+# <img src="https://camo.githubusercontent.com/94b33bd991f6c3135af747bdf27361be43e797c0fce678b62ed5aef57e9d8bd7/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966" width="30" height="30"/> Languages and Tools
 <div>
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg" title="Python" alt="Python" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg"  title="C" alt="C" width="50" height="50"/>&nbsp;
@@ -52,7 +52,7 @@
 <br>
 
 
-# <img src="icons8-computer-94.png" width="30" height="30"/> OS
+# <img src="icons8-computer-94.png" width="40" height="40"/> OS
 <div>
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
@@ -60,7 +60,7 @@
 </div>
 <br>
 
-# <img src="icons8-progettazione-94.png" width="30" height="30"/> Prototyping Platforms
+# <img src="icons8-progettazione-94.png" width="40" height="40"/> Prototyping Platforms
 <div>
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/>
   <img src="https://img.shields.io/badge/adafruit-000000?style=for-the-badge&logo=adafruit&logoColor=white"/>
@@ -68,7 +68,7 @@
 </div>
 <br>
 
-# <img src="icons8-grafico-combinato-94.png" width="30" height="30"/> Stats
+# <img src="icons8-grafico-combinato-94.png" width="40" height="40"/> Stats
 <p align=center >
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chiara2804&theme=vision-friendly-dark" /> 
 </p>
