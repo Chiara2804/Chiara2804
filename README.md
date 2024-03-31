@@ -70,10 +70,10 @@
 
 # <img src="icons8-grafico-combinato-94.png" width="40" height="40"/> Stats
 <div>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chiara2804&theme=transparent" width="40%"/> 
-  <img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chiara2804&layout=compact&theme=transparent" alt="Chiara2804" width="40%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chiara2804&theme=transparent" width="40%" height="200"/> 
+  <img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chiara2804&layout=compact&theme=transparent" alt="Chiara2804" width="40%" height="200"/>
 </div>
 <br/>
 <p align=center >
-&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Chiara2804&show_icons=true&locale=en&theme=transparent" alt="Chiara2804" width="50%" />
+&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Chiara2804&show_icons=true&locale=en&theme=transparent" alt="Chiara2804" width="50%" height="200"/>
 </p>
