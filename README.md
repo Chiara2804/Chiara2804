@@ -52,7 +52,7 @@
 <br>
 
 
-# 💻 OS
+# <img src="https://icons8.it/icon/dcP07MTsJKm9/laptop"/> OS
 <div>
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
