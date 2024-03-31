@@ -70,6 +70,6 @@
 
 # <img src="icons8-grafico-combinato-94.png" width="40" height="40"/> Stats
 
-![Top Langs]((https://github-readme-stats.vercel.app/api/top-langs/?username=Chiara2804&layout=compact&theme=algolia))
-![Stats]((https://github-readme-stats.vercel.app/api?username=Chiara2804&show_icons=true&locale=en&theme=algolia))
+![Chiara2804's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chiara2804&show_icons=true&theme=agolia)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chiara2804&layout=compact&theme=agolia)
 
