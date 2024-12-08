@@ -11,20 +11,6 @@
 🌙 Night_Person         █████░░░░░░░░░░░░░░░░░░░░   20%
 ```
 
-  <a href="https://www.linkedin.com/in/chiara-mancarella-082048207/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> &nbsp;
-  </a>
-  <a href="https://twitter.com/C_Mancarella04">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/> &nbsp;
-  </a>
-  <a href="https://www.instagram.com/chiara.mancarella_/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> &nbsp;
-  </a>  
- 
-  <a href="mailto:chiaramancarellait@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> &nbsp;
-  </a>
-
 <br><br>
 
 
