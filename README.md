@@ -7,9 +7,12 @@
 ### I am...
 
 ```text
-an engineering student with a passion for solving problems and understanding how things work. When I’m not studying, I enjoy programming and bringing ideas to life through 3D printing and creative projects.
+an engineering student with a passion for solving problems and understanding how things work.
+When I’m not studying, I enjoy programming and bringing ideas to life through 3D printing
+and creative projects.
 
-Whether it’s designing something from scratch or improving an existing solution, I love exploring the intersection of technology and creativity. 🌟
+Whether it’s designing something from scratch or improving an existing solution, I love exploring
+the intersection of technology and creativity. 🌟
 ```
 
 <br><br>
