@@ -45,10 +45,6 @@ I mix technology and creativity, from **3D printing** and **IoT** to **AI** expe
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chiara2804&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="Top languages" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Chiara2804&hide_border=true&theme=tokyonight" alt="GitHub streak" />
-</p>
-
 ---
 
 ## 🚀 Featured projects
@@ -118,21 +114,6 @@ I mix technology and creativity, from **3D printing** and **IoT** to **AI** expe
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
   <img src="https://img.shields.io/badge/3D_Printing-FF6A00?style=for-the-badge&logo=prusa3d&logoColor=white" />
 </p>
-
----
-
-## 🧑‍🏫 Teaching & community
-
-| | |
-|---|---|
-| 🏛️ **Progetto Giovani Padova** | Course designer and instructor: *3D Modeling + Arduino* (2025), *Python Coding* (2026) |
-| 🎓 **Alumni Università di Padova** | Workshop speaker in the *AI Skills Lab* series (2026) |
-| 🤖 **AI workshops** | Facilitator for freelancers, small teams and non-technical audiences |
-| 🔧 **IIS Veronese-Marconi, Chioggia** | Robotics lab tutor |
-| 📚 **Peer tutoring** | Programming and engineering subjects |
-| 👩‍💻 **RestartHer Academia** | Community Lead |
-| 💜 **Women Techmakers** | Member |
-
 ---
 
 <p align="center">
