@@ -10,7 +10,6 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/chiaramancarellait/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <img src="https://komarev.com/ghpvc/?username=Chiara2804&style=for-the-badge&color=3fae5a&label=PROFILE+VIEWS" alt="Profile views" />
 </p>
 
 ---
