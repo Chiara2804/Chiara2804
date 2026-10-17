@@ -95,23 +95,6 @@ I mix technology and creativity, from **3D printing** and **IoT** to **AI** expe
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" /></p>
 </td>
 </tr>
-<tr>
- 
-<td width="50%" align="center" valign="top">
-  <a href="https://github.com/Chiara2804?tab=repositories&q=CS50AI">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Chiara2804&repo=Traffic-CS50AI&theme=tokyonight&hide_border=true" alt="CS50 AI" width="100%" />
-  </a>
-  <p><b>🤖 CS50 AI (Harvard)</b><br/>
-  Search, knowledge, uncertainty, optimization and learning:<br/>
-  <a href="https://github.com/Chiara2804/Minesweeper-CS50AI">Minesweeper</a> ·
-  <a href="https://github.com/Chiara2804/Heredity-CS50AI">Heredity</a> ·
-  <a href="https://github.com/Chiara2804/Pagerank-CS50AI">PageRank</a> ·
-  <a href="https://github.com/Chiara2804/Crossword-CS50AI">Crossword</a> ·
-  <a href="https://github.com/Chiara2804/Nim-CS50AI">Nim</a> ·
-  <a href="https://github.com/Chiara2804/Shopping-CS50AI">Shopping</a> ·
-  <a href="https://github.com/Chiara2804/Traffic-CS50AI">Traffic</a></p>
-</td>
-</tr>
 </table>
 
 ---
