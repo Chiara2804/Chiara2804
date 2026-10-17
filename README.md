@@ -42,16 +42,11 @@ I mix technology and creativity, from **3D printing** and **IoT** to **AI** expe
 ## 📊 GitHub stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Chiara2804&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub stats" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chiara2804&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="Top languages" />
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Chiara2804&hide_border=true&theme=tokyonight" alt="GitHub streak" />
-</p>
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Chiara2804&theme=tokyo-night&hide_border=true&area=true" alt="Contribution activity graph" />
 </p>
 
 ---
@@ -105,10 +100,6 @@ I mix technology and creativity, from **3D printing** and **IoT** to **AI** expe
   <a href="https://github.com/Chiara2804/Piano">
     <img src="https://raw.githubusercontent.com/Chiara2804/Piano/main/readme/piano.png" alt="Piano" width="100%" />
   </a>
-  <p><b>🎹 Piano</b><br/>
-  Playable piano keyboard in the browser<br/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /></p>
 </td>
 <td width="50%" align="center" valign="top">
   <a href="https://github.com/Chiara2804?tab=repositories&q=CS50AI">
