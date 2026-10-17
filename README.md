@@ -96,11 +96,7 @@ I mix technology and creativity, from **3D printing** and **IoT** to **AI** expe
 </td>
 </tr>
 <tr>
-<td width="50%" align="center" valign="top">
-  <a href="https://github.com/Chiara2804/Piano">
-    <img src="https://raw.githubusercontent.com/Chiara2804/Piano/main/readme/piano.png" alt="Piano" width="100%" />
-  </a>
-</td>
+ 
 <td width="50%" align="center" valign="top">
   <a href="https://github.com/Chiara2804?tab=repositories&q=CS50AI">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Chiara2804&repo=Traffic-CS50AI&theme=tokyonight&hide_border=true" alt="CS50 AI" width="100%" />
