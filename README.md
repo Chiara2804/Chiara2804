@@ -114,6 +114,7 @@ I mix technology and creativity, from **3D printing** and **IoT** to **AI** expe
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
   <img src="https://img.shields.io/badge/3D_Printing-FF6A00?style=for-the-badge&logo=prusa3d&logoColor=white" />
 </p>
+
 ---
 
 <p align="center">
