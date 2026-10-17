@@ -24,8 +24,6 @@ I'm an **Automation Engineering student at the University of Padova** who loves 
 
 I mix technology and creativity, from **3D printing** and **IoT** to **AI** experiments, and I love teaching what I learn.
 
-🎯 **Goal:** bring all this into **biomedical research and industry**, and one day found my own company in the field.
-
 </td>
 <td width="40%" valign="top">
 
