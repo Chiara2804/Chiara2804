@@ -33,7 +33,6 @@ I mix technology and creativity, from **3D printing** and **IoT** to **AI** expe
 - 🎓 Halfway through my **bachelor's degree**
 - 🧑‍🏫 **Tutor** and **course designer**
 - 🤖 **AI workshop** facilitator
-- 👩‍💻 **Community Lead** @ RestartHer Academia
 - 💜 Member of **Women Techmakers**
 
 </td>
